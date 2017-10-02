@@ -1,10 +1,9 @@
 {
   "name": "sort-indentation-group",
   "main": "./lib/sort-indentation-group",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sort surrounding lines with the same indentation as the line under the cursor",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-text-editor": [
       "sort-indentation-group:sort"
@@ -15,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
